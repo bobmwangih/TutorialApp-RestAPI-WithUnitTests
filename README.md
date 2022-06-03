@@ -2,8 +2,9 @@
 
 This REPO holds a REST backend service powered by SpringBoot and H2 database,
 The service has the following unit tests - : 
-1.RestController unit test(@WebMvcTest) <br/>
-2. JpaRepository unit test(@DataJpaTest)
+<br/>
+1.RestController unit test (@WebMvcTest) <br/>
+2. JpaRepository unit test (@DataJpaTest)
 
 ## Tech Stack:
 SpringBoot | H2 database | spring JPA | Mockito | Junit5
