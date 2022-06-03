@@ -1,7 +1,12 @@
 # TutorialApp-RestAPI-WithUnitTests
 
 This REPO holds a REST backend service powered by SpringBoot and H2 database,
-The service has unit tests developed using MOCKITO and JUNIT
+The service has the following unit tests - : 
+1.RestController unit test
+2. JpaRepository unit test
+
+##Tech Stack:
+SpringBoot | H2 database | spring JPA | Mockito | Junit5
 
 ## The application exports the following APIs
 ```java
