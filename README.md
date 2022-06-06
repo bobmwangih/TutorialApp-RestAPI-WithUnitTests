@@ -1,9 +1,11 @@
 # TutorialApp-RestAPI-WithUnitTests
 
 This REPO holds a REST backend service powered by SpringBoot and H2 database,
-The service has the following unit tests - : 
 <br/>
-1.RestController unit test (@WebMvcTest) <br/>
+Also the services has the following unit tests - : 
+<br/>
+1.RestController unit test (@WebMvcTest)
+<br/>
 2. JpaRepository unit test (@DataJpaTest)
 
 ## Tech Stack:
